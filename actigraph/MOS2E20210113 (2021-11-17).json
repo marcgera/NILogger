@@ -1,0 +1,20 @@
+{
+	"Serial_Number": "MOS2E20210113",
+	"Device_Type": "wGT3XBT",
+	"Firmware": "1.9.2",
+	"Battery_Voltage": "4,17",
+	"Sample_Rate": "100",
+	"Start_Date": "637727751000000000",
+	"Stop_Date": "0",
+	"Last_Sample_Time": "637727753100000000",
+	"TimeZone": "01:00:00",
+	"Download_Date": "637727753100000000",
+	"Board_Revision": "5",
+	"Unexpected_Resets": "0",
+	"Acceleration_Scale": "256.0",
+	"Acceleration_Min": "-8.0",
+	"Acceleration_Max": "8.0",
+	"Sex": "Male",
+	"Height": "30,48",
+	"Subject_Name": "Marc Geraerts"
+}

@@ -1,0 +1,18 @@
+Serial Number: MOS2E20210113
+Device Type: wGT3XBT
+Firmware: 1.9.2
+Battery Voltage: 4,18
+Sample Rate: 100
+Start Date: 637728374400000000
+Stop Date: 0
+Last Sample Time: 637728454710000000
+TimeZone: 01:00:00
+Download Date: 637728454710000000
+Board Revision: 5
+Unexpected Resets: 0
+Acceleration Scale: 256.0
+Acceleration Min: -8.0
+Acceleration Max: 8.0
+Sex: Male
+Height: 30,48
+Subject Name: Marc Geraerts
